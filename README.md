@@ -1,4 +1,5 @@
-# 🎨 Frontend Web Development Projects
+# 🎨 Frontend Web Development Projects 
+
 
 This repository serves as the **central hub for all my frontend web development work**.  
 It organizes projects by **technology stack and complexity**, providing a clean, structured view of my frontend journey.
@@ -22,16 +23,23 @@ Projects in this category are grouped into dedicated repositories based on theme
 
 **Repositories:**
 - **`html-css-ui-components`**  
-  UI elements such as cards, buttons, forms, navbars
+  UI elements such as cards, buttons, forms,navbars
+  <br/>
 
-- **`html-css-layouts`**  
+    [HTML & CSS UI Components](https://github.com/maqsoodahmadkhan13/html-css-ui-components)
+  
+
+- **`html-css-websites`**  
   Responsive layouts and page structures
+  <br/>
 
-- **`html-css-animations`**  
+  [HTML & CSS Websites](https://github.com/maqsoodahmadkhan13/html-css-websites)
+
+- **`html-css-effects-and-patterns`**  
   CSS animations, transitions, and visual effects
+  <br/>
 
-- **`html-css-mini-projects`**  
-  Small templates and practice projects
+  [HTML & CSS Effects and Patterns](https://github.com/maqsoodahmadkhan13/html-css-effects-and-patterns)
 
 Each repository contains multiple HTML & CSS projects with proper documentation.
 
@@ -46,6 +54,7 @@ Framework-based projects are grouped by technology.
 **Repositories:**
 - **`bootstrap-projects`**  
   Responsive websites and components built with Bootstrap
+  
 
 - **`tailwind-css-projects`**  
   Dashboards and utility-first designs using Tailwind CSS
